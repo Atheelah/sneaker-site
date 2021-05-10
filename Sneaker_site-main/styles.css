@@ -494,7 +494,6 @@ a.buy:hover {
   display: flex;
   align-items: center;
   flex-direction: row;
-  position: sticky;
 }
 #text {
   display: flex;
